@@ -1,12 +1,12 @@
 {
-  "name": "claude-code-marketplace",
+  "name": "ekson-claude-plugins",
   "owner": {
     "name": "Emilson Moraes",
     "email": "emilson.moraes@gmail.com"
   },
   "metadata": {
     "description": "Personal Claude Code plugin marketplace - AI agent tools and workflows",
-    "repository": "https://github.com/ekson73/claude-code-marketplace",
+    "repository": "https://github.com/ekson73/ekson-claude-plugins",
     "license": "MIT"
   },
   "plugins": [

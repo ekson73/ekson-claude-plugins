@@ -1,4 +1,4 @@
-# Claude Code Marketplace
+# Ekson Claude Plugins
 
 Personal Claude Code plugin marketplace by [Emilson Moraes](https://github.com/ekson73).
 
@@ -6,7 +6,7 @@ Personal Claude Code plugin marketplace by [Emilson Moraes](https://github.com/e
 
 ```bash
 # Add marketplace
-claude plugin marketplace add ekson73/claude-code-marketplace
+claude plugin marketplace add ekson73/ekson-claude-plugins
 
 # List available plugins
 claude plugin marketplace list
