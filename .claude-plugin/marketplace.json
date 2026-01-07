@@ -1,0 +1,38 @@
+{
+  "name": "claude-code-marketplace",
+  "owner": {
+    "name": "Emilson Moraes",
+    "email": "emilson.moraes@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace - AI agent tools and workflows",
+    "repository": "https://github.com/ekson73/claude-code-marketplace",
+    "license": "MIT"
+  },
+  "plugins": [
+    {
+      "name": "multi-agent-os",
+      "description": "Multi-Agent Coordination Framework - Orchestration, Sentinel Protocol, Worktree Policy, Status Maps",
+      "version": "1.0.0",
+      "author": {
+        "name": "Vek - Desenvolvimento de Software",
+        "email": "emilson.moraes@vectorinf.com.br"
+      },
+      "source": {
+        "source": "github",
+        "repo": "ekson73/multi-agent-os"
+      },
+      "category": "ai-agents",
+      "repository": "https://github.com/ekson73/multi-agent-os",
+      "license": "MIT",
+      "keywords": [
+        "ai-agents",
+        "orchestration",
+        "multi-agent",
+        "sentinel",
+        "observability",
+        "git-worktrees"
+      ]
+    }
+  ]
+}
