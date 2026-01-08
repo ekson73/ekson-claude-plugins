@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "ekson-claude-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "owner": {
     "name": "Emilson Moraes",
     "email": "emilson.moraes@gmail.com",
