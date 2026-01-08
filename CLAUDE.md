@@ -194,4 +194,30 @@ chore: {maintenance task}
 
 ---
 
+## Organizational Identity (MVV)
+
+### Mission (A Práxis)
+
+> **Prover um marketplace pessoal de plugins Claude Code para desenvolvedores e AI agents através de um registro centralizado e curado, resolvendo a fragmentação na distribuição de ferramentas de orquestração multi-agente.**
+
+### Vision (A Teleologia)
+
+> **Ser a referência pessoal em plugins de orquestração de agentes AI para Claude Code, com plugins maduros sendo promovidos para o marketplace oficial da Anthropic, influenciando o padrão da indústria em colaboração humano-AI.**
+
+### Values (A Ética)
+
+| Value | Description |
+|-------|-------------|
+| **Functional Minimalism** | Essence over ornament — only essential files, no redundancy |
+| **Rigorous Traceability** | SemVer, CHANGELOG, Conventional Commits — every change is auditable |
+| **Separation of Concerns** | Marketplace contains references, not code — plugins live in their own repos |
+| **Experimental Iteration** | Fast iteration on experimental plugins before promoting to official |
+| **Transparency of Limitations** | Explicitly declare known limitations and NOT-TODOs |
+
+---
+
+*MVV extracted via ontological analysis by Claude-Analyst-eed7-002 | 2026-01-08*
+
+---
+
 *Assinatura: Claude-Analyst-c614-mkt | 2026-01-08T11:05:00-03:00*
