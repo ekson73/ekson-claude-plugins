@@ -1,13 +1,18 @@
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "ekson-claude-plugins",
+  "version": "1.0.0",
   "owner": {
     "name": "Emilson Moraes",
-    "email": "emilson.moraes@gmail.com"
+    "email": "emilson.moraes@gmail.com",
+    "url": "https://github.com/ekson73"
   },
   "metadata": {
     "description": "Personal Claude Code plugin marketplace - AI agent tools and workflows",
     "repository": "https://github.com/ekson73/ekson-claude-plugins",
-    "license": "MIT"
+    "license": "MIT",
+    "homepage": "https://github.com/ekson73/ekson-claude-plugins",
+    "lastUpdated": "2026-01-08"
   },
   "plugins": [
     {
@@ -19,7 +24,7 @@
         "email": "emilson.moraes@vectorinf.com.br"
       },
       "source": {
-        "source": "github",
+        "type": "github",
         "repo": "ekson73/multi-agent-os"
       },
       "category": "ai-agents",
@@ -32,7 +37,9 @@
         "sentinel",
         "observability",
         "git-worktrees"
-      ]
+      ],
+      "minClaudeCodeVersion": "1.0.0",
+      "releaseDate": "2026-01-07"
     }
   ]
 }

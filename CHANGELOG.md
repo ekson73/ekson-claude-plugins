@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-01-08
+
+### Added
+- `CLAUDE.md` - AI agent guidance documentation
+- README badges (License, Claude Code, Plugin count)
+
+### Fixed
+- `marketplace.json`: Fixed duplicate `source.source` field to `source.type`
+
+### Improved
+- `README.md`: Added Quick Start section, structured component tables, contribution guidelines
+- `marketplace.json`: Added `$schema`, `version`, `owner.url`, `metadata.homepage`, `metadata.lastUpdated`, `minClaudeCodeVersion`, `releaseDate` fields
+
 ## [1.0.0] - 2026-01-07
 
 ### Added
@@ -33,6 +46,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 | Plugin | Current Version | Last Updated |
 |--------|-----------------|--------------|
 | multi-agent-os | 1.0.0 | 2026-01-07 |
+
+## Marketplace Versions
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0.1 | 2026-01-08 | CLAUDE.md, README badges, schema fixes |
+| 1.0.0 | 2026-01-07 | Initial release with multi-agent-os |
 
 ---
 
