@@ -2,6 +2,11 @@
 
 This file provides guidance to Claude Code when working with this repository.
 
+> **🔗 HERANÇA DE CONTEXTO GLOBAL**
+> Antes de iniciar qualquer tarefa, leia e incorpore:
+> - `~/.claude/CLAUDE.md` → Diretrizes C01/C02/C03 (Core Directive, Main Instructions, Iterative Loop)
+> - `~/Projects/CLAUDE.md` → Contexto do workspace multi-projeto
+
 ## Repository Overview
 
 **ekson-claude-plugins** is a personal Claude Code plugin marketplace owned by [Emilson Moraes](https://github.com/ekson73).
