@@ -1,6 +1,6 @@
 {
   "name": "ekson-claude-plugins",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "owner": {
     "name": "Emilson Moraes",
     "email": "emilson.moraes@gmail.com",
@@ -22,7 +22,7 @@
         "name": "Vek - Desenvolvimento de Software",
         "email": "emilson.moraes@vectorinf.com.br"
       },
-      "source": "https://github.com/ekson73/multi-agent-os",
+      "source": "./plugins/multi-agent-os",
       "category": "ai-agents",
       "repository": "https://github.com/ekson73/multi-agent-os",
       "license": "MIT",
